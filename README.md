@@ -41,7 +41,7 @@ A Dynamic Form Generator application built using React and Ant Design, allowing 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/dynamic-form-builder.git
+git clone https://github.com/mr-rakesh-yadav/Dynamic-Form-App.git
 ```
 ## Available Scripts
 
